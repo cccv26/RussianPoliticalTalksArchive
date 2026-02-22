@@ -1,2 +1,3 @@
-# RussianPoliticalTalksArchive
-An archive of Russian politicals talks from YouTube
+# Архив политических разговоров с YouTube
+Архив разговоров Российских политологов, политиков и тд с YouTube
+- [Федор Крашенинников](./FedorKrasheninnikov/)
