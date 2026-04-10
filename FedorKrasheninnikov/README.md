@@ -1,9 +1,17 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 29 video transcripts.
+This folder contains 37 video transcripts.
 
 ## Videos
 
+- **2026-04-08** - [Trump and his threats I Fyodor Krasheninnikov on the Politeka channel](./ebugHijOLGc-Trump-and-his-threats-I-Fyodor-Krasheninnikov-on-t.md) - 6,806 views
+- **2026-04-05** - [How I ended up in Brussels I Fyodor Krasheninnikov, ](./2ojL8UABSw8-How-I-ended-up-in-Brussels-I-Fyodor-Krasheninnikov.md) - 4,078 views
+- **2026-03-25** - [Иранская война. Черные дни Зеленского I Фёдор Крашенинников на канале Politeka](./us6VRa2dnJU-Иранская-война-Черные-дни-Зеленского-I-Фёдор-Краше.md) - 9,238 views
+- **2026-03-11** - [Ukraine in Iran's Shadow: Trump Calls Putin I Fyodor Krasheninnikov on the Politeka channel](./gzSdcoD4_YE-Ukraine-in-Irans-Shadow-Trump-Calls-Putin-I-Fyodor.md) - 8,810 views
+- **2026-03-06** - [Russia without Telegram. Iran is diverting all attention from the war in Ukraine. I Fedor on @Pop...](./iGHh-ok3LpE-Russia-without-Telegram-Iran-is-diverting-all-atte.md) - 7,948 views
+- **2026-03-03** - [Что будет с Ираном? I Фёдор Крашенинников и Эльдар Мамедов](./5pVAXz2p6sc-Что-будет-с-Ираном-I-Фёдор-Крашенинников-и-Эльдар-.md) - 15,652 views
+- **2026-02-28** - [Медиа в эмиграции: о чем, почему и для кого  I Федор Крашенинников и Лев Кадик](./T7Bgho8CREU-Медиа-в-эмиграции-о-чем-почему-и-для-кого-I-Федор-.md) - 5,926 views
+- **2026-02-23** - [Зеленский между Путиным и Трампом I Фёдор Крашенинников на канале Александра Шелеста](./wZD1oT0jTJ0-Зеленский-между-Путиным-и-Трампом-I-Фёдор-Крашенин.md) - 8,105 views
 - **2026-02-22** - [There will be no meeting between Putin and Zelensky! Fyodor Krasheninnikov on the Dozhd channel](./X3u59rMyn6Y-There-will-be-no-meeting-between-Putin-and-Zelensk.md) - 2,136 views
 - **2026-02-22** - [Начало и конец войны в Украине I Фёдор Крашенинников на канале Politeka](./BVuLZiuCzuQ-Начало-и-конец-войны-в-Украине-I-Фёдор-Крашенинник.md) - 8,562 views
 - **2026-02-20** - [Время героев и мессенджер «Мах» I Фёдор Крашенинников в эфире «Честного слова»](./6z_KI7t_PFs-Время-героев-и-мессенджер-Мах-I-Фёдор-Крашениннико.md) - 6,379 views
