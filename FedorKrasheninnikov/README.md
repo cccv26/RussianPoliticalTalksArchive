@@ -1,9 +1,10 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 37 video transcripts.
+This folder contains 38 video transcripts.
 
 ## Videos
 
+- **2026-04-12** - [Бельгия до Бельгии от Цезаря до Наполеона I Фёдор Крашенинников, подкаст ](./_6oM6VuPXAM-Бельгия-до-Бельгии-от-Цезаря-до-Наполеона-I-Фёдор-.md) - 1,272 views
 - **2026-04-08** - [Trump and his threats I Fyodor Krasheninnikov on the Politeka channel](./ebugHijOLGc-Trump-and-his-threats-I-Fyodor-Krasheninnikov-on-t.md) - 6,806 views
 - **2026-04-05** - [How I ended up in Brussels I Fyodor Krasheninnikov, ](./2ojL8UABSw8-How-I-ended-up-in-Brussels-I-Fyodor-Krasheninnikov.md) - 4,078 views
 - **2026-03-25** - [Иранская война. Черные дни Зеленского I Фёдор Крашенинников на канале Politeka](./us6VRa2dnJU-Иранская-война-Черные-дни-Зеленского-I-Фёдор-Краше.md) - 9,238 views
