@@ -9,8 +9,8 @@ This folder contains 44 video transcripts.
 - **2026-04-24** - [Why Putin's rating is falling: Fyodor Krasheninnikov on the Dozhd channel](./7KHIc64vV2A-Why-Putins-rating-is-falling-Fyodor-Krasheninnikov.md) - 3,931 views
 - **2026-04-19** - [Leopold: Russian General on the Belgian Throne I Fyodor Krasheninnikov, Voice of Brussels podcast](./eCKksJaDXjs-Leopold-Russian-General-on-the-Belgian-Throne-I-Fy.md) - 1,925 views
 - **2026-04-18** - [The Real Brussels: The Truth About Life in Europe's Capital I Fyodor Krasheninnikov, ](./tMop_FdoGuw-The-Real-Brussels-The-Truth-About-Life-in-Europes-.md) - 3,844 views
-- **2026-04-14** - [Viktor Orban's Defeat I Fyodor Krasheninnikov on the Popular Politics channel](./_Nqq3xe6jLI-Viktor-Orbans-Defeat-I-Fyodor-Krasheninnikov-on-th.md) - 8,737 views
-- **2026-04-12** - [Бельгия до Бельгии от Цезаря до Наполеона I Фёдор Крашенинников, подкаст ](./_6oM6VuPXAM-Бельгия-до-Бельгии-от-Цезаря-до-Наполеона-I-Фёдор-.md) - 1,272 views
+- **2026-04-14** - [Viktor Orban's Defeat I Fyodor Krasheninnikov on the Popular Politics channel](./Nqq3xe6jLI-Viktor-Orbans-Defeat-I-Fyodor-Krasheninnikov-on-th.md) - 8,737 views
+- **2026-04-12** - [Бельгия до Бельгии от Цезаря до Наполеона I Фёдор Крашенинников, подкаст ](./6oM6VuPXAM-Бельгия-до-Бельгии-от-Цезаря-до-Наполеона-I-Фёдор-.md) - 1,272 views
 - **2026-04-08** - [Trump and his threats I Fyodor Krasheninnikov on the Politeka channel](./ebugHijOLGc-Trump-and-his-threats-I-Fyodor-Krasheninnikov-on-t.md) - 6,806 views
 - **2026-04-05** - [How I ended up in Brussels I Fyodor Krasheninnikov, ](./2ojL8UABSw8-How-I-ended-up-in-Brussels-I-Fyodor-Krasheninnikov.md) - 4,078 views
 - **2026-03-25** - [Иранская война. Черные дни Зеленского I Фёдор Крашенинников на канале Politeka](./us6VRa2dnJU-Иранская-война-Черные-дни-Зеленского-I-Фёдор-Краше.md) - 9,238 views
@@ -22,7 +22,7 @@ This folder contains 44 video transcripts.
 - **2026-02-22** - [There will be no meeting between Putin and Zelensky! Fyodor Krasheninnikov on the Dozhd channel](./X3u59rMyn6Y-There-will-be-no-meeting-between-Putin-and-Zelensk.md) - 2,136 views
 - **2026-02-22** - [Начало и конец войны в Украине I Фёдор Крашенинников на канале Politeka](./BVuLZiuCzuQ-Начало-и-конец-войны-в-Украине-I-Фёдор-Крашенинник.md) - 8,562 views
 - **2026-02-20** - [Время героев и мессенджер «Мах» I Фёдор Крашенинников в эфире «Честного слова»](./6z_KI7t_PFs-Время-героев-и-мессенджер-Мах-I-Фёдор-Крашениннико.md) - 6,379 views
-- **2026-02-14** - [Оппозиция в изгнании: куда мы приехали I Федор Крашенинников и Владимир Метелкин](./_E8RdZo2oEk-Оппозиция-в-изгнании-куда-мы-приехали-I-Федор-Краш.md) - 10,558 views
+- **2026-02-14** - [Оппозиция в изгнании: куда мы приехали I Федор Крашенинников и Владимир Метелкин](./E8RdZo2oEk-Оппозиция-в-изгнании-куда-мы-приехали-I-Федор-Краш.md) - 10,558 views
 - **2026-02-10** - [Who's disrupting the negotiations: war and the prospects of a new pandemic I Fyodor Krasheninniko...](./dqu4qhp4K-k-Whos-disrupting-the-negotiations-war-and-the-prosp.md) - 10,074 views
 - **2026-01-26** - [Negotiations in Abu Dhabi: Where are they going I Fyodor Krasheninnikov on the VOT TAK channel](./smgJ8QCR0V0-Negotiations-in-Abu-Dhabi-Where-are-they-going-I-F.md) - 8,774 views
 - **2026-01-24** - [Переговоры России и Украины начались I Фёдор Крашенинников на канале Politeka](./ktAxw4OKNhE-Переговоры-России-и-Украины-начались-I-Фёдор-Краше.md) - 12,539 views
@@ -30,7 +30,7 @@ This folder contains 44 video transcripts.
 - **2026-01-20** - [Who will run for the State Duma? Iranian Lessons I. Fyodor Krasheninnikov on ](./UkHENSyxbkU-Who-will-run-for-the-State-Duma-Iranian-Lessons-I-.md) - 5,936 views
 - **2026-01-15** - [Почему Путин легко сдает «‎союзников» I Фёдор Крашенинников на канале Politeka](./wIXHlhJfOwA-Почему-Путин-легко-сдает-союзников-I-Фёдор-Крашени.md) - 10,238 views
 - **2026-01-08** - [Russia and the Venezuelan Crisis I Fyodor Krasheninnikov on the Dozhd Channel](./HpYxgLvFGek-Russia-and-the-Venezuelan-Crisis-I-Fyodor-Krasheni.md) - 4,922 views
-- **2026-01-06** - [Maduro's arrest: what does this mean for Ukraine and Russia? Fyodor Krasheninnikov on the @Polite...](./_z6m13f4Eb4-Maduros-arrest-what-does-this-mean-for-Ukraine-and.md) - 19,308 views
+- **2026-01-06** - [Maduro's arrest: what does this mean for Ukraine and Russia? Fyodor Krasheninnikov on the @Polite...](./z6m13f4Eb4-Maduros-arrest-what-does-this-mean-for-Ukraine-and.md) - 19,308 views
 - **2026-01-02** - [Россия в 2026 I Фёдор Крашенинников на канале Ищем Выход](./wKKteqyRRfw-Россия-в-2026-I-Фёдор-Крашенинников-на-канале-Ищем.md) - 11,379 views
 - **2025-12-27** - [What did Zelensky bring to Trump? I Fyodor Krasheninnikov on the Politeka channel](./5ulS6m6edKY-What-did-Zelensky-bring-to-Trump-I-Fyodor-Krasheni.md) - 10,545 views
 - **2025-12-19** - [America's Decline and Europe's Indecision I Fyodor Krasheninnikov on Honest Word](./suaBhLMDdPE-Americas-Decline-and-Europes-Indecision-I-Fyodor-K.md) - 7,983 views
