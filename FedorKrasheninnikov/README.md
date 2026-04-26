@@ -1,9 +1,15 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 38 video transcripts.
+This folder contains 44 video transcripts.
 
 ## Videos
 
+- **2026-04-26** - [Leopold II: King of the Belgians and the African Autocrat I Fyodor Krasheninnikov, ](./Nfxj5p9s4vY-Leopold-II-King-of-the-Belgians-and-the-African-Au.md) - 681 views
+- **2026-04-25** - [Moscow's split and Russia's attack on the Baltics: dreams and reality I Fyodor Krasheninnikov on ...](./EvMPUFxgd8g-Moscows-split-and-Russias-attack-on-the-Baltics-dr.md) - 9,934 views
+- **2026-04-24** - [Why Putin's rating is falling: Fyodor Krasheninnikov on the Dozhd channel](./7KHIc64vV2A-Why-Putins-rating-is-falling-Fyodor-Krasheninnikov.md) - 3,931 views
+- **2026-04-19** - [Leopold: Russian General on the Belgian Throne I Fyodor Krasheninnikov, Voice of Brussels podcast](./eCKksJaDXjs-Leopold-Russian-General-on-the-Belgian-Throne-I-Fy.md) - 1,925 views
+- **2026-04-18** - [The Real Brussels: The Truth About Life in Europe's Capital I Fyodor Krasheninnikov, ](./tMop_FdoGuw-The-Real-Brussels-The-Truth-About-Life-in-Europes-.md) - 3,844 views
+- **2026-04-14** - [Viktor Orban's Defeat I Fyodor Krasheninnikov on the Popular Politics channel](./_Nqq3xe6jLI-Viktor-Orbans-Defeat-I-Fyodor-Krasheninnikov-on-th.md) - 8,737 views
 - **2026-04-12** - [Бельгия до Бельгии от Цезаря до Наполеона I Фёдор Крашенинников, подкаст ](./_6oM6VuPXAM-Бельгия-до-Бельгии-от-Цезаря-до-Наполеона-I-Фёдор-.md) - 1,272 views
 - **2026-04-08** - [Trump and his threats I Fyodor Krasheninnikov on the Politeka channel](./ebugHijOLGc-Trump-and-his-threats-I-Fyodor-Krasheninnikov-on-t.md) - 6,806 views
 - **2026-04-05** - [How I ended up in Brussels I Fyodor Krasheninnikov, ](./2ojL8UABSw8-How-I-ended-up-in-Brussels-I-Fyodor-Krasheninnikov.md) - 4,078 views
