@@ -1,8 +1,8 @@
 """
 YouTube Transcript Fetcher
-Fetches transcripts from YouTube videos using YTFetcher
-Also fetches pinned comments as video summaries
-V3 - GitHub Actions compatible (no Colab dependencies)
+Fetches transcripts from YouTube videos using YTFetcher (for channel listing)
+and youtube-transcript-api (for transcripts, including auto-generated)
+V4 - Supports auto-generated transcripts
 
 Usage:
     python fetch_transcripts.py --channel FedorKrasheninnikov --max-results 30
@@ -21,6 +21,7 @@ from googleapiclient.errors import HttpError
 from openai import OpenAI
 from ytfetcher import YTFetcher
 from ytfetcher.config import FetchOptions
+from youtube_transcript_api import YouTubeTranscriptApi, NoTranscriptFound, TranscriptsDisabled
 
 # ── CLI arguments ────────────────────────────────────────────────────────────
 
@@ -38,7 +39,7 @@ OUTPUT_ROOT   = args.output_dir
 
 # ── API keys from environment ────────────────────────────────────────────────
 
-YOUTUBE_API_KEY   = os.environ["YOUTUBE_API_KEY"]
+YOUTUBE_API_KEY    = os.environ["YOUTUBE_API_KEY"]
 OPENROUTER_API_KEY = os.environ["OPENROUTER_API_KEY"]
 
 openrouter_client = OpenAI(
@@ -47,6 +48,62 @@ openrouter_client = OpenAI(
 )
 
 youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
+
+# ── Transcript fetching ──────────────────────────────────────────────────────
+
+def fetch_transcript(video_id):
+    """
+    Fetch transcript for a video using youtube-transcript-api.
+    Tries in order:
+      1. Manual Russian transcript
+      2. Manual English transcript
+      3. Auto-generated Russian transcript
+      4. Auto-generated English transcript
+      5. Any auto-generated transcript available
+    Returns (transcript_text, language_code) or (None, None).
+    """
+    try:
+        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+
+        transcript = None
+
+        # 1. Try manual transcripts first (ru then en)
+        try:
+            transcript = transcript_list.find_manually_created_transcript(['ru', 'en'])
+        except NoTranscriptFound:
+            pass
+
+        # 2. Try auto-generated (ru then en)
+        if not transcript:
+            try:
+                transcript = transcript_list.find_generated_transcript(['ru', 'en'])
+            except NoTranscriptFound:
+                pass
+
+        # 3. Last resort: take whatever is available
+        if not transcript:
+            try:
+                transcript = next(iter(transcript_list))
+            except StopIteration:
+                pass
+
+        if not transcript:
+            print(f"  ✗ No transcript found in any language")
+            return None, None
+
+        data = transcript.fetch()
+        text = " ".join(entry['text'] for entry in data)
+        lang = transcript.language_code
+        kind = "auto-generated" if transcript.is_generated else "manual"
+        print(f"  ✓ Transcript: {len(text)} chars [{lang}, {kind}]")
+        return text, lang
+
+    except TranscriptsDisabled:
+        print(f"  ✗ Transcripts are disabled for this video")
+        return None, None
+    except Exception as e:
+        print(f"  ✗ Transcript error: {e}")
+        return None, None
 
 # ── Helpers ──────────────────────────────────────────────────────────────────
 
@@ -96,9 +153,8 @@ def load_existing_transcripts(transcripts_folder):
 def get_video_publish_date(video_id):
     """Return publish date string (YYYY-MM-DD) or None."""
     try:
-        # adding hl="ru" can cause no transcripts error
         response = youtube.videos().list(
-            part="snippet", id=video_id
+            part="snippet", id=video_id, hl='ru'
         ).execute()
 
         if response.get('items'):
@@ -231,6 +287,7 @@ def write_transcript_file(filepath, row):
             f.write(f"date: {row['published_at']}\n")
         f.write(f"duration: {row['duration']}\n")
         f.write(f"views: {row['view_count']}\n")
+        f.write(f"transcript_language: {row.get('transcript_language', 'unknown')}\n")
         f.write("---\n\n")
 
         f.write(f"# {row['title']}\n\n")
@@ -267,11 +324,11 @@ def update_readme(transcripts_folder, channel_name):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 content = f.read()
-            title_match   = re.search(r'title:\s*"([^"]+)"', content)
+            title_match    = re.search(r'title:\s*"([^"]+)"', content)
             video_id_match = re.search(r'video_id:\s*(\S+)', content)
-            date_match    = re.search(r'date:\s*(\S+)', content) or \
-                            re.search(r'published_at:\s*(\S+)', content)
-            views_match   = re.search(r'views:\s*(\d+)', content)
+            date_match     = re.search(r'^date:\s*(\S+)', content, re.MULTILINE) or \
+                             re.search(r'published_at:\s*(\S+)', content)
+            views_match    = re.search(r'views:\s*(\d+)', content)
 
             if title_match and video_id_match:
                 all_videos.append({
@@ -309,6 +366,7 @@ os.makedirs(transcripts_folder, exist_ok=True)
 
 existing_video_ids = load_existing_transcripts(transcripts_folder)
 
+# YTFetcher is only used for channel video listing, NOT for transcript fetching
 options = FetchOptions(languages=['ru', 'en'])
 
 print(f"\nFetching up to {MAX_RESULTS} videos from @{CHANNEL_NAME}...")
@@ -318,7 +376,7 @@ fetcher = YTFetcher.from_channel(
     options=options
 )
 
-print("Fetching transcripts...")
+print("Fetching video list...")
 channel_data = fetcher.fetch_youtube_data()
 
 print(f"\nFound {len(channel_data)} videos")
@@ -345,35 +403,32 @@ for idx, video_data in enumerate(channel_data, 1):
     if published_at:
         print(f"  Published: {published_at}")
 
-    try:
-        if video_data.transcripts:
-            full_transcript = " ".join(s.text for s in video_data.transcripts)
-            print(f"  ✓ Transcript: {len(full_transcript)} chars, {len(video_data.transcripts)} segments")
+    # Fetch transcript directly via youtube-transcript-api (handles auto-generated)
+    full_transcript, transcript_language = fetch_transcript(video_data.video_id)
 
-            machine_summary = generate_machine_summary(video_data.metadata.title, full_transcript)
+    if full_transcript:
+        machine_summary = generate_machine_summary(video_data.metadata.title, full_transcript)
 
-            results.append({
-                'video_id':       video_data.video_id,
-                'title':          video_data.metadata.title,
-                'description':    video_data.metadata.description,
-                'url':            video_data.metadata.url,
-                'published_at':   published_at,
-                'duration':       video_data.metadata.duration,
-                'view_count':     video_data.metadata.view_count,
-                'summary':        user_comment['text'] if user_comment else None,
-                'summary_author': user_comment['author'] if user_comment else None,
-                'summary_likes':  user_comment['like_count'] if user_comment else None,
-                'machine_summary': machine_summary,
-                'transcript':     full_transcript,
-                'segment_count':  len(video_data.transcripts),
-                'character_count': len(full_transcript)
-            })
-            print(f"  Preview: {full_transcript[:200]}...")
-        else:
-            print(f"  ✗ No transcript available")
-
-    except Exception as e:
-        print(f"  ✗ Error: {e}")
+        results.append({
+            'video_id':            video_data.video_id,
+            'title':               video_data.metadata.title,
+            'description':         video_data.metadata.description,
+            'url':                 video_data.metadata.url,
+            'published_at':        published_at,
+            'duration':            video_data.metadata.duration,
+            'view_count':          video_data.metadata.view_count,
+            'summary':             user_comment['text'] if user_comment else None,
+            'summary_author':      user_comment['author'] if user_comment else None,
+            'summary_likes':       user_comment['like_count'] if user_comment else None,
+            'machine_summary':     machine_summary,
+            'transcript':          full_transcript,
+            'transcript_language': transcript_language,
+            'segment_count':       len(full_transcript.split()),
+            'character_count':     len(full_transcript)
+        })
+        print(f"  Preview: {full_transcript[:200]}...")
+    else:
+        print(f"  ✗ Skipping — no transcript available")
 
     print("-" * 80)
 
@@ -391,7 +446,7 @@ if results:
 else:
     print("\n⚠ No new transcripts fetched")
 
-# Always regenerate README (even if nothing new, order/views may have changed)
+# Always regenerate README
 update_readme(transcripts_folder, CHANNEL_NAME)
 
 print(f"\nDone. Files in: {transcripts_folder}")

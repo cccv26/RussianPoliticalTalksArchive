@@ -1,4 +1,5 @@
 ytfetcher
+youtube-transcript-api
 google-api-python-client
 openai
 pandas
