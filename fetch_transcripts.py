@@ -96,8 +96,9 @@ def load_existing_transcripts(transcripts_folder):
 def get_video_publish_date(video_id):
     """Return publish date string (YYYY-MM-DD) or None."""
     try:
+        # adding hl="ru" can cause no transcripts error
         response = youtube.videos().list(
-            part="snippet", id=video_id, hl='ru'
+            part="snippet", id=video_id
         ).execute()
 
         if response.get('items'):
