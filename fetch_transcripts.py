@@ -52,35 +52,23 @@ youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
 # ── Transcript fetching ──────────────────────────────────────────────────────
 
 def fetch_transcript(video_id):
-    """
-    Fetch transcript for a video using youtube-transcript-api.
-    Tries in order:
-      1. Manual Russian transcript
-      2. Manual English transcript
-      3. Auto-generated Russian transcript
-      4. Auto-generated English transcript
-      5. Any auto-generated transcript available
-    Returns (transcript_text, language_code) or (None, None).
-    """
     try:
-        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+        ytt = YouTubeTranscriptApi()                        # ← instantiate first
+        transcript_list = ytt.list(video_id)               # ← .list() not .list_transcripts()
 
         transcript = None
 
-        # 1. Try manual transcripts first (ru then en)
         try:
             transcript = transcript_list.find_manually_created_transcript(['ru', 'en'])
         except NoTranscriptFound:
             pass
 
-        # 2. Try auto-generated (ru then en)
         if not transcript:
             try:
                 transcript = transcript_list.find_generated_transcript(['ru', 'en'])
             except NoTranscriptFound:
                 pass
 
-        # 3. Last resort: take whatever is available
         if not transcript:
             try:
                 transcript = next(iter(transcript_list))
@@ -92,7 +80,7 @@ def fetch_transcript(video_id):
             return None, None
 
         data = transcript.fetch()
-        text = " ".join(entry['text'] for entry in data)
+        text = " ".join(entry.text for entry in data)      # ← entry.text not entry['text']
         lang = transcript.language_code
         kind = "auto-generated" if transcript.is_generated else "manual"
         print(f"  ✓ Transcript: {len(text)} chars [{lang}, {kind}]")
