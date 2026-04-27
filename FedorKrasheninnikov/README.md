@@ -34,8 +34,8 @@ This folder contains 44 video transcripts.
 - **2026-01-02** - [Россия в 2026 I Фёдор Крашенинников на канале Ищем Выход](./wKKteqyRRfw-Россия-в-2026-I-Фёдор-Крашенинников-на-канале-Ищем.md) - 11,379 views
 - **2025-12-27** - [What did Zelensky bring to Trump? I Fyodor Krasheninnikov on the Politeka channel](./5ulS6m6edKY-What-did-Zelensky-bring-to-Trump-I-Fyodor-Krasheni.md) - 10,545 views
 - **2025-12-19** - [America's Decline and Europe's Indecision I Fyodor Krasheninnikov on Honest Word](./suaBhLMDdPE-Americas-Decline-and-Europes-Indecision-I-Fyodor-K.md) - 7,983 views
-- **2025-12-17** - [Дело Долиной и скандал вокруг ПАСЕ I Фёдор Крашенинников на канале Бакалейко](./5rwuQN7Kc5I-Дело-Долиной-и-скандал-вокруг-ПАСЕ-I-Фёдор-Крашени.md) - 19,795 views
 - **2025-12-17** - [Russia, Ukraine, the US, the EU: Where are the negotiations heading? Fyodor Krasheninnikov on the...](./XBCfGyElQF4-Russia-Ukraine-the-US-the-EU-Where-are-the-negotia.md) - 9,246 views
+- **2025-12-17** - [Дело Долиной и скандал вокруг ПАСЕ I Фёдор Крашенинников на канале Бакалейко](./5rwuQN7Kc5I-Дело-Долиной-и-скандал-вокруг-ПАСЕ-I-Фёдор-Крашени.md) - 19,795 views
 - **2025-12-10** - [Ukraine between Russia, the US, and Europe I Fyodor Krasheninnikov on ](./JxRHGapfal4-Ukraine-between-Russia-the-US-and-Europe-I-Fyodor-.md) - 8,288 views
 - **2025-12-06** - [США вынудили Украину вести переговоры о невыгодном мире I Фёдор Крашенинников на канале Politeka](./WFw4mpooowo-США-вынудили-Украину-вести-переговоры-о-невыгодном.md) - 13,125 views
 - **2025-11-23** - [The Trump-Putin plan is being promoted with all US resources. Comments by Fyodor Krasheninnikov.](./JPt8SYZF1RA-The-Trump-Putin-plan-is-being-promoted-with-all-US.md) - 16,258 views

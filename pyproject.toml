@@ -1,0 +1,11 @@
+[project]
+name = "russian-political-talks-archive"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "ytfetcher",
+    "youtube-transcript-api",
+    "google-api-python-client",
+    "openai",
+    "pandas",
+]
