@@ -162,7 +162,7 @@ def generate_machine_summary(video_title, transcript):
         print(f"  Generating AI summary...")
 
         response = openrouter_client.chat.completions.create(
-            model="openrouter/auto",
+            model="openrouter/free",
             messages=[{
                 "role": "user",
                 "content": f"""This is a transcript of a YouTube video titled "{video_title}".

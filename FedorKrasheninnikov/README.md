@@ -1,6 +1,6 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 44 video transcripts.
+This folder contains 48 video transcripts.
 
 ## Videos
 
@@ -48,3 +48,7 @@ This folder contains 44 video transcripts.
 - **2025-11-04** - [Putin is fighting, Trump is biding his time. Fyodor Krasheninnikov on the Politeka channel.](./Utk2I5EzZ_0-Putin-is-fighting-Trump-is-biding-his-time-Fyodor-.md) - 10,428 views
 - **2025-11-02** - [Возможности и задачи эмиграции I «Анализируй это!» с Фёдором Крашенинниковым и Владиславом Гориным](./6OCPVRJbsVU-Возможности-и-задачи-эмиграции-I-Анализируй-это-с-.md) - 10,745 views
 - **2025-10-28** - [Putin and Trump exchanged threats. Fyodor Krasheninnikov on the Dozhd channel.](./sAyMt0ntPU0-Putin-and-Trump-exchanged-threats-Fyodor-Krashenin.md) - 5,697 views
+- **2025-10-18** - [Zelensky and Trump: What Went Wrong and Where It Will Lead | Commentary by Fyodor Krasheninnikov](./E1HIil6QZl8-Zelensky-and-Trump-What-Went-Wrong-and-Where-It-Wi.md) - 17,572 views
+- **2025-10-17** - [Why Putin Called Trump I Fyodor Krasheninnikov on the Dozhd Channel](./H0hH7detJsk-Why-Putin-Called-Trump-I-Fyodor-Krasheninnikov-on-.md) - 5,871 views
+- **2025-10-10** - [Putin and Aliyev have reconciled. Who will represent whom in PACE? Fedor on ](./BORqPgft-EU-Putin-and-Aliyev-have-reconciled-Who-will-represen.md) - 11,325 views
+- **2025-10-05** - [No-fly zone over Ukraine: pros and cons I Fyodor Krasheninnikov on the Politeka channel](./6fX88ua6fMQ-No-fly-zone-over-Ukraine-pros-and-cons-I-Fyodor-Kr.md) - 8,791 views
