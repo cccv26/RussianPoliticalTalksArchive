@@ -1,0 +1,94 @@
+name: Fetch Transcripts
+
+on:
+  # Run automatically every day at 3am UTC
+  schedule:
+    - cron: '0 3 * * *'
+
+  # Allow manual runs from GitHub UI with custom parameters
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Channel to fetch (leave empty to fetch ALL channels)'
+        required: false
+        default: ''
+        type: choice
+        options:
+          - ''
+          - FedorKrasheninnikov
+          - BaunovTube
+      max_results:
+        description: 'Max videos to fetch per channel'
+        required: false
+        default: '30'
+        type: choice
+        options:
+          - '30'
+          - '100'
+          - '300'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit files back to the repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Determine which channels to run ──────────────────────────────────
+      # If a specific channel was chosen in manual dispatch, use that.
+      # Otherwise (scheduled run or empty input) run ALL channels.
+
+      - name: Fetch FedorKrasheninnikov
+        if: ${{ github.event.inputs.channel == '' || github.event.inputs.channel == 'FedorKrasheninnikov' }}
+        env:
+          YOUTUBE_API_KEY:    ${{ secrets.YOUTUBE_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python fetch_transcripts.py \
+            --channel FedorKrasheninnikov \
+            --max-results ${{ github.event.inputs.max_results || '30' }}
+
+      - name: Fetch BaunovTube
+        if: ${{ github.event.inputs.channel == '' || github.event.inputs.channel == 'BaunovTube' }}
+        env:
+          YOUTUBE_API_KEY:    ${{ secrets.YOUTUBE_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python fetch_transcripts.py \
+            --channel BaunovTube \
+            --max-results ${{ github.event.inputs.max_results || '30' }}
+
+      # ── Commit any new/changed files back to the repo ────────────────────
+
+      - name: Commit and push new transcripts
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
+            git commit -m "chore: auto-fetch transcripts [$TIMESTAMP]"
+            git push
+          fi

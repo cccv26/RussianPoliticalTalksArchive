@@ -1,0 +1,4 @@
+ytfetcher
+google-api-python-client
+openai
+pandas
