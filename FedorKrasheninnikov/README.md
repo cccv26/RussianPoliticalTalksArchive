@@ -1,9 +1,10 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 48 video transcripts.
+This folder contains 60 video transcripts.
 
 ## Videos
 
+- **2026-04-27** - [Why a ](./mDuUDj-gQp8-Why-a-Russian-Taiwan-and-a-good-Russian-passport-a.md) - 9,910 views
 - **2026-04-26** - [Leopold II: King of the Belgians and the African Autocrat I Fyodor Krasheninnikov, ](./Nfxj5p9s4vY-Leopold-II-King-of-the-Belgians-and-the-African-Au.md) - 681 views
 - **2026-04-25** - [Moscow's split and Russia's attack on the Baltics: dreams and reality I Fyodor Krasheninnikov on ...](./EvMPUFxgd8g-Moscows-split-and-Russias-attack-on-the-Baltics-dr.md) - 9,934 views
 - **2026-04-24** - [Why Putin's rating is falling: Fyodor Krasheninnikov on the Dozhd channel](./7KHIc64vV2A-Why-Putins-rating-is-falling-Fyodor-Krasheninnikov.md) - 3,931 views
@@ -52,3 +53,14 @@ This folder contains 48 video transcripts.
 - **2025-10-17** - [Why Putin Called Trump I Fyodor Krasheninnikov on the Dozhd Channel](./H0hH7detJsk-Why-Putin-Called-Trump-I-Fyodor-Krasheninnikov-on-.md) - 5,871 views
 - **2025-10-10** - [Putin and Aliyev have reconciled. Who will represent whom in PACE? Fedor on ](./BORqPgft-EU-Putin-and-Aliyev-have-reconciled-Who-will-represen.md) - 11,325 views
 - **2025-10-05** - [No-fly zone over Ukraine: pros and cons I Fyodor Krasheninnikov on the Politeka channel](./6fX88ua6fMQ-No-fly-zone-over-Ukraine-pros-and-cons-I-Fyodor-Kr.md) - 8,791 views
+- **2025-10-04** - [Внутриэлитные репрессии I «Анализируй это!» с Фёдором Крашенинниковым и Владиславом Гориным](./PNFkrJVQVq4-Внутриэлитные-репрессии-I-Анализируй-это-с-Фёдором.md) - 11,651 views
+- **2025-09-26** - [Russian Assets in the EU: Why Ukraine Won't Get Them (I) Comments by Fyodor Krasheninnikov](./wQkm-y_IE3g-Russian-Assets-in-the-EU-Why-Ukraine-Wont-Get-Them.md) - 21,680 views
+- **2025-09-24** - [Trump at the UN, new taxes and repression in Russia I Fyodor Krasheninnikov on ](./15Feo1dmdJ0-Trump-at-the-UN-new-taxes-and-repression-in-Russia.md) - 8,364 views
+- **2025-09-19** - [Navalny's Murder: Putin's Brutal Revenge I Fyodor Krasheninnikov on the Meduza channel](./8uQUs-NqT30-Navalnys-Murder-Putins-Brutal-Revenge-I-Fyodor-Kra.md) - 7,977 views
+- **2025-09-16** - [Europe is not ready to fight for Ukraine I Fedor Krasheninnikov on the Ukrainian channel @Politek...](./kkbi9oOA1DA-Europe-is-not-ready-to-fight-for-Ukraine-I-Fedor-K.md) - 10,889 views
+- **2025-09-15** - [Elections in Russia, the murder of Charlie Kirk and the problems of Israel I Fyodor Krasheninniko...](./MD3kW3eKqvA-Elections-in-Russia-the-murder-of-Charlie-Kirk-and.md) - 6,965 views
+- **2025-09-05** - [Trump and the ](./bJRCnLMrqVk-Trump-and-the-coalition-of-the-willing-I-Fyodor-Kr.md) - 11,498 views
+- **2025-09-02** - [Putin after the SCO: Europe needs to do something I Fyodor Krasheninnikov on the @tvrain channel](./Un-Q3vLnEKc-Putin-after-the-SCO-Europe-needs-to-do-something-I.md) - 12,038 views
+- **2025-08-31** - [SCO Summit: Consequences of Trump's Diplomacy I Fedor Krasheninnikov on the channel @tvrain](./BEcwliO8sno-SCO-Summit-Consequences-of-Trumps-Diplomacy-I-Fedo.md) - 11,075 views
+- **2025-08-26** - [Trump puts pressure on Zelensky | Fedor Krasheninnikov on the channel @theinsiderlive](./BXmrJPO_ncI-Trump-puts-pressure-on-Zelensky-Fedor-Krasheninnik.md) - 10,898 views
+- **2025-08-20** - [Ukraine after Alaska and Washington I Fyodor Krasheninnikov on the channel @PolitekaOnline](./LkTYeK8t-Ug-Ukraine-after-Alaska-and-Washington-I-Fyodor-Krash.md) - 13,501 views
