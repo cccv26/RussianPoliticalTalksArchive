@@ -1,9 +1,11 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 60 video transcripts.
+This folder contains 62 video transcripts.
 
 ## Videos
 
+- **2026-05-03** - [Albert I: King, Soldier and Mountaineer I Fyodor Krasheninnikov, podcast ](./cukTB8BRo48-Albert-I-King-Soldier-and-Mountaineer-I-Fyodor-Kra.md) - 870 views
+- **2026-05-03** - [Россия, Украина, США и Иран: никто не хочет уступать I Фёдор Крашенинников на канале Politeka](./38gi8SjG7MU-Россия-Украина-США-и-Иран-никто-не-хочет-уступать-.md) - 7,554 views
 - **2026-04-27** - [Why a ](./mDuUDj-gQp8-Why-a-Russian-Taiwan-and-a-good-Russian-passport-a.md) - 9,910 views
 - **2026-04-26** - [Leopold II: King of the Belgians and the African Autocrat I Fyodor Krasheninnikov, ](./Nfxj5p9s4vY-Leopold-II-King-of-the-Belgians-and-the-African-Au.md) - 681 views
 - **2026-04-25** - [Moscow's split and Russia's attack on the Baltics: dreams and reality I Fyodor Krasheninnikov on ...](./EvMPUFxgd8g-Moscows-split-and-Russias-attack-on-the-Baltics-dr.md) - 9,934 views
