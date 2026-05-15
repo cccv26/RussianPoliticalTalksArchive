@@ -19,8 +19,8 @@ This folder contains 48 video transcripts.
 - **2026-03-03** - [Что будет с Ираном? I Фёдор Крашенинников и Эльдар Мамедов](./5pVAXz2p6sc-Что-будет-с-Ираном-I-Фёдор-Крашенинников-и-Эльдар-.md) - 15,652 views
 - **2026-02-28** - [Медиа в эмиграции: о чем, почему и для кого  I Федор Крашенинников и Лев Кадик](./T7Bgho8CREU-Медиа-в-эмиграции-о-чем-почему-и-для-кого-I-Федор-.md) - 5,926 views
 - **2026-02-23** - [Зеленский между Путиным и Трампом I Фёдор Крашенинников на канале Александра Шелеста](./wZD1oT0jTJ0-Зеленский-между-Путиным-и-Трампом-I-Фёдор-Крашенин.md) - 8,105 views
-- **2026-02-22** - [Начало и конец войны в Украине I Фёдор Крашенинников на канале Politeka](./BVuLZiuCzuQ-Начало-и-конец-войны-в-Украине-I-Фёдор-Крашенинник.md) - 8,562 views
 - **2026-02-22** - [There will be no meeting between Putin and Zelensky! Fyodor Krasheninnikov on the Dozhd channel](./X3u59rMyn6Y-There-will-be-no-meeting-between-Putin-and-Zelensk.md) - 2,136 views
+- **2026-02-22** - [Начало и конец войны в Украине I Фёдор Крашенинников на канале Politeka](./BVuLZiuCzuQ-Начало-и-конец-войны-в-Украине-I-Фёдор-Крашенинник.md) - 8,562 views
 - **2026-02-20** - [Время героев и мессенджер «Мах» I Фёдор Крашенинников в эфире «Честного слова»](./6z_KI7t_PFs-Время-героев-и-мессенджер-Мах-I-Фёдор-Крашениннико.md) - 6,379 views
 - **2026-02-14** - [Оппозиция в изгнании: куда мы приехали I Федор Крашенинников и Владимир Метелкин](./E8RdZo2oEk-Оппозиция-в-изгнании-куда-мы-приехали-I-Федор-Краш.md) - 10,558 views
 - **2026-02-10** - [Who's disrupting the negotiations: war and the prospects of a new pandemic I Fyodor Krasheninniko...](./dqu4qhp4K-k-Whos-disrupting-the-negotiations-war-and-the-prosp.md) - 10,074 views
@@ -34,8 +34,8 @@ This folder contains 48 video transcripts.
 - **2026-01-02** - [Россия в 2026 I Фёдор Крашенинников на канале Ищем Выход](./wKKteqyRRfw-Россия-в-2026-I-Фёдор-Крашенинников-на-канале-Ищем.md) - 11,379 views
 - **2025-12-27** - [What did Zelensky bring to Trump? I Fyodor Krasheninnikov on the Politeka channel](./5ulS6m6edKY-What-did-Zelensky-bring-to-Trump-I-Fyodor-Krasheni.md) - 10,545 views
 - **2025-12-19** - [America's Decline and Europe's Indecision I Fyodor Krasheninnikov on Honest Word](./suaBhLMDdPE-Americas-Decline-and-Europes-Indecision-I-Fyodor-K.md) - 7,983 views
-- **2025-12-17** - [Дело Долиной и скандал вокруг ПАСЕ I Фёдор Крашенинников на канале Бакалейко](./5rwuQN7Kc5I-Дело-Долиной-и-скандал-вокруг-ПАСЕ-I-Фёдор-Крашени.md) - 19,795 views
 - **2025-12-17** - [Russia, Ukraine, the US, the EU: Where are the negotiations heading? Fyodor Krasheninnikov on the...](./XBCfGyElQF4-Russia-Ukraine-the-US-the-EU-Where-are-the-negotia.md) - 9,246 views
+- **2025-12-17** - [Дело Долиной и скандал вокруг ПАСЕ I Фёдор Крашенинников на канале Бакалейко](./5rwuQN7Kc5I-Дело-Долиной-и-скандал-вокруг-ПАСЕ-I-Фёдор-Крашени.md) - 19,795 views
 - **2025-12-10** - [Ukraine between Russia, the US, and Europe I Fyodor Krasheninnikov on ](./JxRHGapfal4-Ukraine-between-Russia-the-US-and-Europe-I-Fyodor-.md) - 8,288 views
 - **2025-12-06** - [США вынудили Украину вести переговоры о невыгодном мире I Фёдор Крашенинников на канале Politeka](./WFw4mpooowo-США-вынудили-Украину-вести-переговоры-о-невыгодном.md) - 13,125 views
 - **2025-11-23** - [The Trump-Putin plan is being promoted with all US resources. Comments by Fyodor Krasheninnikov.](./JPt8SYZF1RA-The-Trump-Putin-plan-is-being-promoted-with-all-US.md) - 16,258 views
