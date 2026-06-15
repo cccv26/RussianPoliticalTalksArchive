@@ -286,7 +286,8 @@ def write_transcript_file(filepath, row):
         f.write(f"- **URL**: [{row['url']}]({row['url']})\n")
         f.write(f"- **Video ID**: `{row['video_id']}`\n")
         f.write(f"- **Duration**: {row['duration']} seconds\n")
-        f.write(f"- **Views**: {row['view_count']:,}\n\n")
+        view_count = row['view_count']
+        f.write(f"- **Views**: {f'{view_count:,}' if view_count is not None else 'N/A'}\n\n")
 
         if pd.notna(row['summary']) and row['summary']:
             f.write("## Summary\n\n")

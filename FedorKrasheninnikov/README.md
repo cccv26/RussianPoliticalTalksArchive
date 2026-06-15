@@ -1,9 +1,20 @@
 # FedorKrasheninnikov - Video Transcripts
 
-This folder contains 62 video transcripts.
+This folder contains 74 video transcripts.
 
 ## Videos
 
+- **2026-06-14** - [Antoinism: The Only Religion Born in Belgium I Fyodor Krasheninnikov, Voice of Brussels podcast](./bAcyWV8DkOo-Antoinism-The-Only-Religion-Born-in-Belgium-I-Fyod.md)
+- **2026-06-07** - [How and Why Brussels Became the Capital of Europe I Fyodor Krasheninnikov, ](./LtXyHiqF4pQ-How-and-Why-Brussels-Became-the-Capital-of-Europe-.md)
+- **2026-06-03** - [St. Petersburg Forum in Smoke. Armenia at a Crossroads | Fyodor Krasheninnikov on the ](./mN7zcn7C99Y-St-Petersburg-Forum-in-Smoke-Armenia-at-a-Crossroa.md)
+- **2026-06-02** - [Европа и Трамп, ситуация на фронте и будущее Армении I Фёдор Крашенинников в эфире «Честного слова»](./vXlfo9_wfFk-Европа-и-Трамп-ситуация-на-фронте-и-будущее-Армени.md)
+- **2026-05-31** - [Albert II and 21st Century Belgium: Crises, Scandals, and Change | Fyodor Krasheninnikov, ](./KZM5wdhhZ0Y-Albert-II-and-21st-Century-Belgium-Crises-Scandals.md)
+- **2026-05-30** - [NATO under attack: what to expect in Europe and Ukraine I Fyodor Krasheninnikov on the Politeka c...](./2J9xUyD1lcg-NATO-under-attack-what-to-expect-in-Europe-and-Ukr.md)
+- **2026-05-24** - [Count Davignon: From Goering to Nord Stream I Feodor Krasheninnikov, ](./FlaSAwISlFg-Count-Davignon-From-Goering-to-Nord-Stream-I-Feodo.md)
+- **2026-05-23** - [The war has reached a dead end I Fyodor Krasheninnikov on the Politeka channel](./iqTD-XGk1mM-The-war-has-reached-a-dead-end-I-Fyodor-Krasheninn.md)
+- **2026-05-20** - [Putin in China, SVO members, and elections I Fyodor Krasheninnikov on Honest Word](./6W9_5gUWuTY-Putin-in-China-SVO-members-and-elections-I-Fyodor-.md)
+- **2026-05-17** - [Baudouin, the King of Compromises I Fyodor Krasheninnikov, Voice of Brussels podcast](./S_fFsrIl81c-Baudouin-the-King-of-Compromises-I-Fyodor-Krasheni.md)
+- **2026-05-09** - [Putin's 2026 Parade I Fyodor Krasheninnikov on the Politeka channel](./iI0vCHt7FnA-Putins-2026-Parade-I-Fyodor-Krasheninnikov-on-the-.md)
 - **2026-05-03** - [Albert I: King, Soldier and Mountaineer I Fyodor Krasheninnikov, podcast ](./cukTB8BRo48-Albert-I-King-Soldier-and-Mountaineer-I-Fyodor-Kra.md) - 870 views
 - **2026-05-03** - [Россия, Украина, США и Иран: никто не хочет уступать I Фёдор Крашенинников на канале Politeka](./38gi8SjG7MU-Россия-Украина-США-и-Иран-никто-не-хочет-уступать-.md) - 7,554 views
 - **2026-04-27** - [Why a ](./mDuUDj-gQp8-Why-a-Russian-Taiwan-and-a-good-Russian-passport-a.md) - 9,910 views
@@ -66,3 +77,4 @@ This folder contains 62 video transcripts.
 - **2025-08-31** - [SCO Summit: Consequences of Trump's Diplomacy I Fedor Krasheninnikov on the channel @tvrain](./BEcwliO8sno-SCO-Summit-Consequences-of-Trumps-Diplomacy-I-Fedo.md) - 11,075 views
 - **2025-08-26** - [Trump puts pressure on Zelensky | Fedor Krasheninnikov on the channel @theinsiderlive](./BXmrJPO_ncI-Trump-puts-pressure-on-Zelensky-Fedor-Krasheninnik.md) - 10,898 views
 - **2025-08-20** - [Ukraine after Alaska and Washington I Fyodor Krasheninnikov on the channel @PolitekaOnline](./LkTYeK8t-Ug-Ukraine-after-Alaska-and-Washington-I-Fyodor-Krash.md) - 13,501 views
+- [Leopold III: Belgium in World War II I by Fyodor Krasheninnikov, Voice of Brussels podcast](./IVovxIetbQE-Leopold-III-Belgium-in-World-War-II-I-by-Fyodor-Kr.md)
