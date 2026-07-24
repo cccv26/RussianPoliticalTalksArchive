@@ -15,8 +15,8 @@ This folder contains 74 video transcripts.
 - **2026-05-20** - [Putin in China, SVO members, and elections I Fyodor Krasheninnikov on Honest Word](./6W9_5gUWuTY-Putin-in-China-SVO-members-and-elections-I-Fyodor-.md)
 - **2026-05-17** - [Baudouin, the King of Compromises I Fyodor Krasheninnikov, Voice of Brussels podcast](./S_fFsrIl81c-Baudouin-the-King-of-Compromises-I-Fyodor-Krasheni.md)
 - **2026-05-09** - [Putin's 2026 Parade I Fyodor Krasheninnikov on the Politeka channel](./iI0vCHt7FnA-Putins-2026-Parade-I-Fyodor-Krasheninnikov-on-the-.md)
-- **2026-05-03** - [Albert I: King, Soldier and Mountaineer I Fyodor Krasheninnikov, podcast ](./cukTB8BRo48-Albert-I-King-Soldier-and-Mountaineer-I-Fyodor-Kra.md) - 870 views
 - **2026-05-03** - [Россия, Украина, США и Иран: никто не хочет уступать I Фёдор Крашенинников на канале Politeka](./38gi8SjG7MU-Россия-Украина-США-и-Иран-никто-не-хочет-уступать-.md) - 7,554 views
+- **2026-05-03** - [Albert I: King, Soldier and Mountaineer I Fyodor Krasheninnikov, podcast ](./cukTB8BRo48-Albert-I-King-Soldier-and-Mountaineer-I-Fyodor-Kra.md) - 870 views
 - **2026-04-27** - [Why a ](./mDuUDj-gQp8-Why-a-Russian-Taiwan-and-a-good-Russian-passport-a.md) - 9,910 views
 - **2026-04-26** - [Leopold II: King of the Belgians and the African Autocrat I Fyodor Krasheninnikov, ](./Nfxj5p9s4vY-Leopold-II-King-of-the-Belgians-and-the-African-Au.md) - 681 views
 - **2026-04-25** - [Moscow's split and Russia's attack on the Baltics: dreams and reality I Fyodor Krasheninnikov on ...](./EvMPUFxgd8g-Moscows-split-and-Russias-attack-on-the-Baltics-dr.md) - 9,934 views
