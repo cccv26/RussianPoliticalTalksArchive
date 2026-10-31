@@ -15,8 +15,8 @@ This folder contains 74 video transcripts.
 - **2026-05-20** - [Putin in China, SVO members, and elections I Fyodor Krasheninnikov on Honest Word](./6W9_5gUWuTY-Putin-in-China-SVO-members-and-elections-I-Fyodor-.md)
 - **2026-05-17** - [Baudouin, the King of Compromises I Fyodor Krasheninnikov, Voice of Brussels podcast](./S_fFsrIl81c-Baudouin-the-King-of-Compromises-I-Fyodor-Krasheni.md)
 - **2026-05-09** - [Putin's 2026 Parade I Fyodor Krasheninnikov on the Politeka channel](./iI0vCHt7FnA-Putins-2026-Parade-I-Fyodor-Krasheninnikov-on-the-.md)
-- **2026-05-03** - [Россия, Украина, США и Иран: никто не хочет уступать I Фёдор Крашенинников на канале Politeka](./38gi8SjG7MU-Россия-Украина-США-и-Иран-никто-не-хочет-уступать-.md) - 7,554 views
 - **2026-05-03** - [Albert I: King, Soldier and Mountaineer I Fyodor Krasheninnikov, podcast ](./cukTB8BRo48-Albert-I-King-Soldier-and-Mountaineer-I-Fyodor-Kra.md) - 870 views
+- **2026-05-03** - [Россия, Украина, США и Иран: никто не хочет уступать I Фёдор Крашенинников на канале Politeka](./38gi8SjG7MU-Россия-Украина-США-и-Иран-никто-не-хочет-уступать-.md) - 7,554 views
 - **2026-04-27** - [Why a ](./mDuUDj-gQp8-Why-a-Russian-Taiwan-and-a-good-Russian-passport-a.md) - 9,910 views
 - **2026-04-26** - [Leopold II: King of the Belgians and the African Autocrat I Fyodor Krasheninnikov, ](./Nfxj5p9s4vY-Leopold-II-King-of-the-Belgians-and-the-African-Au.md) - 681 views
 - **2026-04-25** - [Moscow's split and Russia's attack on the Baltics: dreams and reality I Fyodor Krasheninnikov on ...](./EvMPUFxgd8g-Moscows-split-and-Russias-attack-on-the-Baltics-dr.md) - 9,934 views
@@ -55,8 +55,8 @@ This folder contains 74 video transcripts.
 - **2025-11-23** - [The Trump-Putin plan is being promoted with all US resources. Comments by Fyodor Krasheninnikov.](./JPt8SYZF1RA-The-Trump-Putin-plan-is-being-promoted-with-all-US.md) - 16,258 views
 - **2025-11-22** - [Trump-Putin's ](./mgbFazgj45M-Trump-Putins-Obscene-World-Plot-Developments-I-Com.md) - 26,432 views
 - **2025-11-19** - [Yulia Navalnaya: European Values ​​I Fyodor Krasheninnikov on Honest Word](./Hyfk-EKmAd8-Yulia-Navalnaya-European-Values-I-Fyodor-Krashenin.md) - 6,206 views
-- **2025-11-18** - [Ukraine: Problems at the Front and a Corruption Scandal I Fyodor Krasheninnikov on the Politeka C...](./TjHKf5-qxxU-Ukraine-Problems-at-the-Front-and-a-Corruption-Sca.md) - 14,218 views
 - **2025-11-18** - [Negotiations in Istanbul and Trump's new sanctions I Fyodor Krasheninnikov on the Dozhd channel](./IqWSiqW8oBU-Negotiations-in-Istanbul-and-Trumps-new-sanctions-.md) - 4,319 views
+- **2025-11-18** - [Ukraine: Problems at the Front and a Corruption Scandal I Fyodor Krasheninnikov on the Politeka C...](./TjHKf5-qxxU-Ukraine-Problems-at-the-Front-and-a-Corruption-Sca.md) - 14,218 views
 - **2025-11-08** - [Banning multiple-entry visas for Russians: stupid and useless. I Fyodor Krasheninnikov on the @td...](./XyRcuEIVfPI-Banning-multiple-entry-visas-for-Russians-stupid-a.md) - 5,627 views
 - **2025-11-07** - [Путин и его послание. Слухи о Лаврове I Фёдор Крашенинников в эфире «Честного слова»](./VmUPD3ox0Qo-Путин-и-его-послание-Слухи-о-Лаврове-I-Фёдор-Краше.md) - 21,646 views
 - **2025-11-04** - [Putin is fighting, Trump is biding his time. Fyodor Krasheninnikov on the Politeka channel.](./Utk2I5EzZ_0-Putin-is-fighting-Trump-is-biding-his-time-Fyodor-.md) - 10,428 views
